@@ -3,7 +3,7 @@
 - 👀 I’m interested in web develpoment
 - 🌱 I’m currently learning fullstack and python(intermediate)
 - 💞️ I’m looking to collaborate with other content creators
-- 📫 How to reach me ...
+-
 
 <!---
 Sayli6242/Sayli6242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
